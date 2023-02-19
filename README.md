@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sushmoyr)
+![](https://komarev.com/ghpvc/?username=sushmoyr&style=flat-square&color=6699CC)
 
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Sushmoy Roy</a></h1>
 
@@ -23,6 +23,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sushmoyr&icon=8&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=sushmoyr&icon=8&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
