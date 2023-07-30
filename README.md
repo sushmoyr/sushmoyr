@@ -3,7 +3,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Sushmoy Roy</a></h1>
 
 # 💫 About Me:
-🔭 I’m currently working on an Edtech & a start-up.<br>👯 I’m looking to collaborate on Open Source Flutter Projects.<br>🤝 I’m looking for help with NextJS.<br>🌱 I’m currently learning Go Lang.<br>💬 Ask me about Flutter.
+🔭 I’m currently working on an Edtech & a start-up.<br>👯 I’m looking to collaborate on Open Source Flutter Projects.<br>🤝 I’m looking for help with NextJS.<br>🌱 I’m currently learning Asp.net.<br>💬 Ask me about Flutter.
 
 
 ## 🌐 Socials:
